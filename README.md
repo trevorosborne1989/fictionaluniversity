@@ -1,3 +1,3 @@
 # fictionaluniversity
 
-A WordPress Site 
+A WordPress Site about Helena, Montana.
