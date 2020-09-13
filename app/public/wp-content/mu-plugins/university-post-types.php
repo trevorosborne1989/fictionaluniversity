@@ -2,6 +2,10 @@
 
 function university_post_types() {
   register_post_type('event', array(
+    'show_in_rest' => true,
+    'supports' => array(
+      'title', 'editor', 'excerpt', // Regular blogs already have this and the dit function is in admin site. This adds excerpt modifying tool to this custom post in admin as well.
+    ), 
     'rewrite' => array(
       'slug' => 'events'
     ),
