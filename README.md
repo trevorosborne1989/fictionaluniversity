@@ -1,3 +1,3 @@
-# Guide_to_Helena
+# guide_to_helena
 
-A WordPress Site about Helena, Montana.
+A WordPress site about Helena, Montana.
